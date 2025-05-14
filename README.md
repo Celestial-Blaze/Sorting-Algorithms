@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-Writing all of my favorite sorting algorithms in different languages
+Writing all of my favorite sorting algorithms
 
 - 👑 MergeSort
 - 🎴 InsertionSort
