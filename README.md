@@ -6,3 +6,5 @@ Writing all of my favorite sorting algorithms in different languages
 - 🫧 BubbleSort
 - 🔁 QuickSort
 - 🕯️ SelectionSort
+
+Actually, my favorites are just TimSort and Quantum BogoSort, but these are important too.
