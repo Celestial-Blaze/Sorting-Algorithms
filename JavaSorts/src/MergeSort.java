@@ -2,7 +2,8 @@ import java.util.Arrays;
 
 public class MergeSort {
     public static void main(String[]args){
-        int[] myArray = {1,2,4,53,0,-22,42,-190,1000,29,37,3,12};
+        System.out.println("MergeSort");
+        int[] myArray = {1,2,4,53,0,-22,42,-190,0,29,1000,29,37,3,12};
         System.out.println(Arrays.toString(myArray));
         mergeSort(myArray, 0, myArray.length - 1); // side effects :)
         System.out.println(Arrays.toString(myArray));
